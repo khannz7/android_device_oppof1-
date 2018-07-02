@@ -1,3 +1,3 @@
-Copyright 2016 - The CyanogenMod Project
+Copyright 2018 - The CyanogenMod Project
 
 Device configuration for OPPO F1.
